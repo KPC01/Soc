@@ -1,0 +1,14 @@
+{
+  "name": "soc-system",
+  "version": "1.0.0",
+  "description": "SOC System Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo \"Build step\"",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
